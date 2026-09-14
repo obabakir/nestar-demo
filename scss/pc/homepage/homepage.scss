@@ -3,5 +3,30 @@
     position: relative;
     width: 100%;
     height: auto;
+
+    .trend-properties {
+      padding: 108px 0px 76px;
+      width: 100%;
+      height: 697px;
+      display: flex;
+      flex-direction: row;
+      // TrendProperties SCSS
+    }
+
+    .popular-properties {
+      // PopularProperties SCSS
+    }
+
+    .video-frame {
+      // VideoFrame SCSS
+    }
+
+    .top-properties {
+      // TopProperties SCSS
+    }
+
+    .top-agents {
+      // TopAgents SCSS
+    }
   }
 }
